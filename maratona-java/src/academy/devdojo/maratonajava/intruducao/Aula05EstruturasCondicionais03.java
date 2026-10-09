@@ -9,6 +9,7 @@ public class Aula05EstruturasCondicionais03 {
 
         //(condicao) ? verdadeiro : falso
         String resultado = salario > 5000 ? mensagemDoar : mensagemNaoDoar;
+
         System.out.println(resultado);
     }
 }
